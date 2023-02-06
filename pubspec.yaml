@@ -23,7 +23,7 @@ dependencies:
   logger: ^1.1.0
   dio_http_formatter: ^2.1.0
   # state management
-  bloc: ^8.1.0
+  bloc: ^8.1.1
   flutter_bloc: ^8.1.1
   equatable: ^2.0.5
   # ui helpers
